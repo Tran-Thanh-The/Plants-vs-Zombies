@@ -1,4 +1,4 @@
 import random
-import pygame as pg
+import Game as pg
 from .. import tool
-from .. import constants as 
+from .. import constants as c
